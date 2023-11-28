@@ -1,4 +1,5 @@
-# This is a post 
+# Title of the post
+
 
 with some content 
 
